@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<wx>
+	<!--  -->
+	<token>whistle</token>
+	<processor-chain>
+		<processor>com.mycomany.sample.HelloWhistleAction</processor>
+		<processor>com.surelution.whistle.core.SampleAction</processor>
+	</processor-chain>
+</wx>
